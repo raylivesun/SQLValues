@@ -17,23 +17,6 @@ Send bugs and suggestions to <texi2html-bug@nongnu.org>
 <meta name="distribution" content="global">
 <meta name="Generator" content="texi2html 1.82">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<style type="text/css">
-<!--
-a.summary-letter {text-decoration: none}
-blockquote.smallquotation {font-size: smaller}
-pre.display {font-family: serif}
-pre.format {font-family: serif}
-pre.menu-comment {font-family: serif}
-pre.menu-preformatted {font-family: serif}
-pre.smalldisplay {font-family: serif; font-size: smaller}
-pre.smallexample {font-size: smaller}
-pre.smallformat {font-family: serif; font-size: smaller}
-pre.smalllisp {font-size: smaller}
-span.roman {font-family:serif; font-weight:normal;}
-span.sansserif {font-family:sans-serif; font-weight:normal;}
-ul.toc {list-style: none}
--->
-</style>
 
 
 </head>
