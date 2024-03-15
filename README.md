@@ -1,3 +1,5 @@
+# GNU Gama 2.29
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html401/loose.dtd">
 <html><!-- Created on February 17, 2024 by texi2html 1.82
 texi2html was written by: 
@@ -8,7 +10,6 @@ texi2html was written by:
 Maintained by: Many creative people.
 Send bugs and suggestions to <texi2html-bug@nongnu.org>
 --><head>
-<title>GNU Gama 2.29</title>
 
 <meta name="description" content="GNU Gama 2.29">
 <meta name="keywords" content="GNU Gama 2.29">
